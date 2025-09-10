@@ -26,3 +26,5 @@
     ```shell
     python main.py
     ```
+
+### PS：所有输入文件都在根目录
