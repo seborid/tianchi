@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+.venv/
+env/
+.env
+
+# Data files (usually not committed to git)
+*.txt
+!requirements.txt
+*.csv
+
+# Output files
+tianchi_mobile_recommendation_predict.csv
+
+# IDE configuration files
+.vscode/
+.idea/
