@@ -16,7 +16,7 @@ env/
 *.csv
 
 # Output files
-tianchi_mobile_recommendation_predict.csv
+tianchi/data/tianchi_mobile_recommendation_predict.txt
 
 # IDE configuration files
 .vscode/
